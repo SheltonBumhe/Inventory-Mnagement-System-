@@ -28,6 +28,8 @@ public class Address {
         return state;
     }
 
+    //THIS IS A JAVA FILER
+
     public String getZip() {
         return zip;
     }
